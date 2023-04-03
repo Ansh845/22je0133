@@ -162,6 +162,11 @@ ul{
     z-index: -0.2;
 
 }
+#feel{
+  margin-left: 8.5cm;
+  background: none;
+  font-size: 42px;
+}
 h1{
     display: flex;
     position: absolute;
